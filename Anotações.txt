@@ -6,10 +6,29 @@ Final da Seção 1
         
         .NET é uma plataforma de desenvolvimento para criar aplicações
         
-        Assim como o JVM é um programa que carrega e executa os aplicativos **Java** o CLR (Common Language Runtime) roda programas .NET
+        Assim como o JVM é um programa que carrega e executa os aplicativos Java,
+	o CLR (Common Language Runtime) roda programas .NET
         
         .NET Framework é uma implementação .NET que roda somente em sistemas Windows
         
-        Xamarin é uma implementação .NET para criação de aplicativos móveis para IOS e Android, e também aplicações desktop para MAC OS
+        Xamarin é uma implementação .NET para criação de aplicativos móveis para IOS e Android,
+	e também aplicações desktop para MAC OS
         
-        .NET Core é uma implementação .NET multiplataforma (Lançado em 2016) pra criação de aplicativos modo console e também aplicativos web [ASP.NET](http://ASP.NET) Core e serviços para nuvem. Core e serviços para nuvem.
+        .NET Core é uma implementação .NET multiplataforma (Lançado em 2016) pra criação
+	de aplicativos modo console e também aplicativos web ASP.NET Core e serviços para nuvem.
+	Core e serviços para nuvem.
+    - Compilação e Interpretação
+    
+    Compiladas: C, C++
+    
+    Interpretadas: PHP, JavaScript
+    
+    - pré-compiladas + máquina virtual: Java, C#
+        
+        Ao executar um código, vai passar por um processo de pré-compilação e vai ser gerado
+	um código na linguagem intermediária - Common Intermediate Language (CIL)
+	rodando em cima de uma máquina virtual que é o CLR, sendo depois convertido para a
+	linguagem de máquina que vai ser executado no computador.
+        
+        Esse procedimento é conhecido como Compilação Just-in-time (JIT) que é muito mais
+	rápido que a interpretação.
