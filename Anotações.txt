@@ -17,6 +17,7 @@ Final da Seção 1
         .NET Core é uma implementação .NET multiplataforma (Lançado em 2016) pra criação
 	de aplicativos modo console e também aplicativos web ASP.NET Core e serviços para nuvem.
 	Core e serviços para nuvem.
+
     - Compilação e Interpretação
     
     Compiladas: C, C++
@@ -32,3 +33,11 @@ Final da Seção 1
         
         Esse procedimento é conhecido como Compilação Just-in-time (JIT) que é muito mais
 	rápido que a interpretação.
+
+    - Primeiro programa em C# no Visual Studio
+    
+    Arquivo → Novo → Projeto...
+    
+    Modelo de projeto escolhido:
+    
+    Aplicativo do Console (.NET Core)
