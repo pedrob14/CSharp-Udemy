@@ -1,1 +1,15 @@
 Final da Seção 1
+- Seção 2
+    - C# e .NET
+        
+        C# é uma linguagem de programação
+        
+        .NET é uma plataforma de desenvolvimento para criar aplicações
+        
+        Assim como o JVM é um programa que carrega e executa os aplicativos **Java** o CLR (Common Language Runtime) roda programas .NET
+        
+        .NET Framework é uma implementação .NET que roda somente em sistemas Windows
+        
+        Xamarin é uma implementação .NET para criação de aplicativos móveis para IOS e Android, e também aplicações desktop para MAC OS
+        
+        .NET Core é uma implementação .NET multiplataforma (Lançado em 2016) pra criação de aplicativos modo console e também aplicativos web [ASP.NET](http://ASP.NET) Core e serviços para nuvem. Core e serviços para nuvem.
