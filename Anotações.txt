@@ -69,3 +69,10 @@ Final da Seção 1
         class: Todo código fonte que for escrito na linguagem C# tem que estar dentro de uma classe.
 	A classe é a unidade básica da POO. Como uma forma de organização é certo colocar o
 	nome da classe como o mesmo nome do arquivo, sendo mais fácil sua identificação.
+     - Dicas do Visual Studio
+    
+    Indentação automática: Ctrl + k + R
+    
+    Rodar o projeto: Ctrl +F5
+    
+    Fonte: Ctrl + Scroll do mouse
