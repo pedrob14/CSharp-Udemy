@@ -41,3 +41,31 @@ Final da Seção 1
     Modelo de projeto escolhido:
     
     Aplicativo do Console (.NET Core)
+    - Estrutura de um programa C#
+    - Pastas e arquivos
+        
+        Quando é feito um novo projeto, o sistema cria uma sub-pasta com o mesmo nome.
+        
+        Dentro desta sub-pasta, contém a estrutura do projeto.
+        
+        .sln: É o arquivo da solução. Onde abre o projeto
+        
+        .csproj: Arquivo de configuração do projeto. Só vai mexer neste arquivo quando
+	precisar acrescentar alguma coisa, por exemplo, alguma dependência.
+        
+        Program.cs: É o arquivo da linguagem c#. Onde é realizado o código.
+        
+        .vs: Essa pasta oculta é usada internamente pelo VS para manter algumas configurações.
+	Não pode mexer nela.
+        
+        Obj e Bin: Nessas pastas o VS vai guardar os arquivos compilados, ao ser executado um programa.
+        
+    - Programa
+        
+        using: Faz uso de alguma biblioteca
+        
+        namespace: É uma agrupamento de classes relacionadas
+        
+        class: Todo código fonte que for escrito na linguagem C# tem que estar dentro de uma classe.
+	A classe é a unidade básica da POO. Como uma forma de organização é certo colocar o
+	nome da classe como o mesmo nome do arquivo, sendo mais fácil sua identificação.
